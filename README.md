@@ -25,7 +25,7 @@ Contributions: Developed parts of the web application in Python and HTML/Angular
 
 #### ARnance (Android Augmented Reality Yahoo Finance Mobile application)
 
-link: https://devpost.com/software/arnance
+Link: https://devpost.com/software/arnance
 
 Description: Android application that showed a company's financial information, stocks and recent news when you scanned the company's logo using our app and as well you could communicate with our app for more info as we had speech recognition. Won our hackathon's financial innovation award and was invited to Scotiabank's HQ. 
 
@@ -67,4 +67,3 @@ I would focus my efforts on developing software that other software or apps use 
 
 https://codepen.io/lding43/pen/QmXjaX
 
-***
