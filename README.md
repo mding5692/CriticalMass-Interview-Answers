@@ -41,17 +41,23 @@ Contributions: Developed parts of the Android application and the speech recogni
 
 Link: https://github.com/mozilla-mobile/firefox-ios) 
 
+Description: The Official IOS Firefox Browser app on the Apple App Store (Open-source and is public on github to see)
+
 What I found inspiring: I was looking online for what a good IOS Swift mobile app looked like and was inspired by the Firefox Browser for IOS as it demonstrated good IOS mobile software architecture to learn from and also how to use state machines within individual parts of the app for much more concise and clear code.
 
 #### PouchDB, an open-source javascript database with offline capabilities 
 
 Link: https://github.com/pouchdb/pouchdb
 
+Description: An open-source database written in Javascript that can be used both when online and offline (Public on github)
+
 What I found inspiring: I've used pouchdb before and was wondering how you make a database internally so I learnt a lot about how a database works as well as inspired by the offline functionalities that pouchDB had.
 
-#### Building a Text Editor for a Digital-First Newsroom, blog post describing New York Times text editors for their writers, etc.
+#### Building a Text Editor for a Digital-First Newsroom, technical blog post by New York Times
 
 Link: https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21
+
+Description: A technical blog post describing the New York Times' own collaborative, online text editor for their news writers and editors with a technical explanation of how they built it and what kinds of tools they used.
 
 What I found inspiring: I've always wanted to build a collaborative online real-time text editor like Google Docs and so learnt a lot about the structure of one used by many in a production/professional surrounding and moreover learnt a lot about the tools one can use to build something similar to Google Docs.
 
