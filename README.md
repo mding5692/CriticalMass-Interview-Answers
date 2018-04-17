@@ -51,7 +51,7 @@ Link: https://github.com/pouchdb/pouchdb
 
 Description: An open-source database written in Javascript that can be used both when online and offline (Public on github)
 
-What I found inspiring: I've used pouchdb before and was wondering how you make a database internally so I learnt a lot about how a database works as well as inspired by the offline functionalities that pouchDB had.
+What I found inspiring: I've used pouchdb before and was wondering how you make a database internally so I learnt a lot about how a database works as well as being inspired by the offline functionalities that pouchDB had.
 
 #### Building a Text Editor for a Digital-First Newsroom, technical blog post by New York Times
 
@@ -59,17 +59,16 @@ Link: https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsro
 
 Description: A technical blog post describing the New York Times' own collaborative, online text editor for their news writers and editors with a technical explanation of how they built it and what kinds of tools they used.
 
-What I found inspiring: I've always wanted to build a collaborative online real-time text editor like Google Docs and so learnt a lot about the structure of one used by many in a production/professional surrounding and moreover learnt a lot about the tools one can use to build something similar to Google Docs.
+What I found inspiring: I've always wanted to build a collaborative online real-time text editor like Google Docs and so learnt a lot about the structure of one used by many users in a production/professional surrounding and moreover learnt a lot about the tools one can use to build something similar to Google Docs.
 
 ***
 
 ## Focus:
 
-I would focus my efforts on developing software that other software or apps use such as libraries or other components that apps use as I feel I am lacking in that field and that I'm good enough to put together ready-made parts to create an app but need more experience in making the individual parts.
+I would focus my efforts on developing software that other software or apps use such as libraries or other components that apps use as I feel I am lacking in that field and that I'm good enough to put together ready-made parts to create an app but need more experience in making the individual parts or libraries involved.
 
 ***
 
 ## Code Challenge:
 
 https://codepen.io/lding43/pen/QmXjaX
-
